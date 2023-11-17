@@ -114,5 +114,6 @@
 		"transition",
 		"width",
 		"zIndex"
-	]
+	],
+	"editor.formatOnSave": true
 }
